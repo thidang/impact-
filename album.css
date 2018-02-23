@@ -1,0 +1,109 @@
+body {
+  /* Can be removed; just added for demo purposes */
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  margin-bottom: 0;
+  background: -webkit-radial-gradient(#FFB199,  #FF0844); /* Safari 5.1- 6.0 */
+background: -o-radial-gradient(red, green, blue); /* Opera 11.6-12.0 */
+background: -moz-radial-gradient(red, green, blue); /* Firefox 3.6-15 */
+background: linear-gradient(00deg, #63E7E4, #207BE0); /* Standard syntax */
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-size: 5rem;
+  color: #fff;
+  padding-top: 50px;
+  font-weight: 250;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.lead {
+  padding-top: 0px;
+  color: #fff;
+  font-weight: 200;
+}
+
+.album {
+  min-height: 20rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+.card {
+
+
+  padding: .5rem;
+  margin-bottom: 2rem;
+  border: 0;
+}
+
+.square {
+  border-radius: 0px;
+}
+
+.gradient {
+  background: linear-gradient(305deg, #63E7E4, #207BE0); /* Standard syntax */
+}
+
+.white {
+  background:#fff; /* Standard syntax */
+  border-radius: 5px;
+}
+
+.white-border {
+  background:none; /* Standard syntax */
+  border: 1px;
+  border-radius: 5px;
+}
+
+.card > img {
+  margin-bottom: .75rem;
+}
+
+.card-text {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.bio {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.project {
+  padding-top: 60px;
+}
+
+.card-bio {
+  text-align: center;
+  font-size:14px;
+  padding:0px;
+}
+
+.text-muted2 {
+  color: #555;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
