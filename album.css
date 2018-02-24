@@ -86,7 +86,7 @@ background: linear-gradient(00deg, #63E7E4, #207BE0); /* Standard syntax */
 }
 
 .project {
-  padding-top: 60px;
+  padding-top: 0px;
 }
 
 .card-bio {
